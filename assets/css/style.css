@@ -130,6 +130,18 @@ h6 {
   margin-left: 5px;
 }
 
+.aue > div{
+  margin-top: 3px;
+  min-width: 20px;
+}
+
+.aue > div > span{
+  background: #f0f0f0;
+  text-align: center;
+}
+
+
+
 .navbar a:hover,
 .navbar .active,
 .navbar .active:focus,
@@ -908,7 +920,7 @@ section {
 }
 
 .portfolio .portfolio-item .portfolio-info {
-  opacity: 0;
+  /*opacity: 0;*/
   position: absolute;
   left: 15px;
   bottom: 0;
@@ -956,9 +968,9 @@ section {
   transform: scale(1.2);
 }
 
-.portfolio .portfolio-item:hover .portfolio-info {
-  opacity: 1;
-}
+/*.portfolio .portfolio-item:hover .portfolio-info {*/
+/*  opacity: 1;*/
+/*}*/
 
 /*--------------------------------------------------------------
 # Portfolio Details
