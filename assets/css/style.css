@@ -476,6 +476,9 @@ section {
   height:80px;
 }
 
+.project {
+  min-height: 420px;
+}
 
 /*--------------------------------------------------------------
 # Breadcrumbs
@@ -981,6 +984,7 @@ section {
 
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
+
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
